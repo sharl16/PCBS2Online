@@ -1,0 +1,18 @@
+# PCBS2Online
+
+A MelonMod that adds **barebones** online functionalty to PC Building Simulator 2.
+
+It works by setting up communication between Unity and a Python script over UDP. 
+The Python script handles the networking backend.
+
+Python server communicates with the client using a local network and a Tailnet to avoid the hassle
+of setting up a safe NAT and proper Firewalls, eliminating the possibility of someone breaking into 
+YOUR computer because of my totally safe code 👌
+
+(https://tailscale.com/)
+
+Two-way communication between Python 3 and Unity (C#) - Y. T. Elashry
+
+(https://github.com/Siliconifier/Python-Unity-Socket-Communication)
+
+Based on CMSOnline (https://github.com/sharl16/CMSOnline)
