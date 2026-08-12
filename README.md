@@ -5,7 +5,8 @@ A MelonMod that adds **barebones** online functionalty to PC Building Simulator 
 It works by setting up communication between Unity and a Python script over UDP. 
 The Python script handles the networking backend.
 
-Python server communicates with the client over TCP, using a local network and a Tailnet to avoid the hassle
+There are two python scripts, one acting as the server host, and the other as a client.
+Python host communicates with the client over TCP, using a local network and a Tailnet to avoid the hassle
 of setting up *secure* port forwarding
 (https://tailscale.com/)
 
