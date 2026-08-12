@@ -8,6 +8,7 @@ The Python script handles the networking backend.
 There are two Python scripts, one acting as the server host, and the other as a client.
 Python host communicates with the client over TCP, using a local network and a Tailnet to avoid the hassle
 of setting up *secure* port forwarding
+
 (https://tailscale.com/)
 
 Two-way communication between Python 3 and Unity (C#) - Y. T. Elashry
