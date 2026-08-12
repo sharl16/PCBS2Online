@@ -1,0 +1,523 @@
+2026-08-11 19:41:32,197 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:41:48,667 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:42:13,532 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:42:13,535 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 19:42:13,535 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 19:42:13,535 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 19:42:13,535 - __main__ - WARNING - [33mUsing a whitelist is strongly recommended. Running without one poses a significant security risk![0m
+2026-08-11 19:42:13,536 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 19:42:13,536 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 19:42:13,536 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 19:42:23,536 - root - INFO - Preparing Game..
+2026-08-11 19:42:23,537 - __main__ - ERROR - :Could not send shared save to clients: [Errno 2] No such file or directory: 'C:\\Users\\nick\\AppData\\LocalLow\\Red Dot Games\\Car Mechanic Simulator 2021\\Save\\profile0.cms21b'
+2026-08-11 19:42:23,537 - root - INFO - [36mIt is now safe to launch the game.[0m
+2026-08-11 19:43:12,727 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:43:12,729 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 19:43:12,729 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 19:43:12,730 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 19:43:12,730 - __main__ - WARNING - [33mUsing a whitelist is strongly recommended. Running without one poses a significant security risk![0m
+2026-08-11 19:43:12,730 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 19:43:12,730 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 19:43:12,731 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 19:43:26,776 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:43:26,777 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 19:43:26,778 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 19:43:26,778 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 19:43:26,778 - __main__ - WARNING - [33mUsing a whitelist is strongly recommended. Running without one poses a significant security risk![0m
+2026-08-11 19:43:26,778 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 19:43:26,778 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 19:43:26,779 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 19:43:36,779 - root - INFO - Preparing Game..
+2026-08-11 19:43:36,779 - __main__ - ERROR - :Could not send shared save to clients: [Errno 2] No such file or directory: 'C:\\Users\\nick\\AppData\\LocalLow\\Red Dot Games\\Car Mechanic Simulator 2021\\Save\\profile0.cms21b'
+2026-08-11 19:43:36,780 - root - INFO - [36mIt is now safe to launch the game.[0m
+2026-08-11 19:43:36,780 - __main__ - INFO - [91mMANUAL communication mode is ON. You can bypass the event loop and send packets directly.[0m
+2026-08-11 19:43:42,166 - __main__ - WARNING - [33mNo clients are currently connected.[0m
+2026-08-11 19:44:14,922 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 19:44:14,922 - __main__ - WARNING - [33mUsing a whitelist is strongly recommended. Running without one poses a significant security risk![0m
+2026-08-11 19:44:14,922 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 19:44:14,923 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 19:44:24,923 - root - INFO - Preparing Game..
+2026-08-11 19:44:24,923 - __main__ - ERROR - :Could not send shared save to clients: [Errno 2] No such file or directory: 'C:\\Users\\nick\\AppData\\LocalLow\\Red Dot Games\\Car Mechanic Simulator 2021\\Save\\profile0.cms21b'
+2026-08-11 19:44:24,923 - root - INFO - [36mIt is now safe to launch the game.[0m
+2026-08-11 19:44:52,348 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 19:44:52,350 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 19:44:52,350 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 19:44:52,350 - __main__ - INFO - [36mWhitelist is enabled![0m
+2026-08-11 19:44:52,351 - __main__ - DEBUG - Whitelisted IPs: [36m['100.65.252.103'][0m
+2026-08-11 19:44:52,351 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 19:44:52,351 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 19:44:52,351 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 19:45:02,352 - root - INFO - Preparing Game..
+2026-08-11 19:45:02,352 - __main__ - ERROR - :Could not send shared save to clients: [Errno 2] No such file or directory: 'C:\\Users\\nick\\AppData\\LocalLow\\Red Dot Games\\Car Mechanic Simulator 2021\\Save\\profile0.cms21b'
+2026-08-11 19:45:02,352 - root - INFO - [36mIt is now safe to launch the game.[0m
+2026-08-11 20:17:54,718 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:17:54,720 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:17:54,720 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:17:54,721 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:17:54,721 - __main__ - WARNING - [33mUsing a whitelist is strongly recommended. Running without one poses a significant security risk![0m
+2026-08-11 20:17:54,721 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:17:54,721 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:17:54,722 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:18:04,722 - root - INFO - Preparing Game..
+2026-08-11 20:18:04,722 - __main__ - ERROR - :Could not send shared save to clients: [Errno 2] No such file or directory: 'C:\\Users\\nick\\AppData\\LocalLow\\Red Dot Games\\Car Mechanic Simulator 2021\\Save\\profile0.cms21b'
+2026-08-11 20:18:04,723 - root - INFO - [36mIt is now safe to launch the game.[0m
+2026-08-11 20:24:36,669 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:24:36,671 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:24:36,671 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:24:36,672 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:24:36,672 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:24:36,672 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:24:36,672 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:24:36,672 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:24:37,680 - __main__ - INFO - [36mServer is ready![0m
+2026-08-11 20:28:42,060 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:28:42,062 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:28:42,062 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:28:42,062 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:28:42,063 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:28:42,063 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:28:42,063 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:28:42,063 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:41:47,714 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:41:47,716 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:41:47,717 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:41:47,717 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:41:47,717 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:41:47,717 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:41:47,717 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:41:47,718 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:44:44,716 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:44:44,717 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:44:44,718 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:44:44,718 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:44:44,718 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:44:44,718 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:44:44,718 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:44:44,719 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:45:55,030 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:45:55,032 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:45:55,033 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:45:55,033 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:45:55,033 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:45:55,033 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:45:55,033 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:45:55,034 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:46:40,478 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:46:40,480 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:46:40,481 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:46:40,481 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:46:40,481 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:46:40,481 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:46:40,481 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:46:40,482 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:47:32,191 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:47:32,194 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:47:32,194 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:47:32,194 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:47:32,194 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:47:32,194 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:47:32,195 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:47:32,195 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 20:47:35,310 - __main__ - INFO - Client: [36m('127.0.0.1', 49739)[0m is now connected to server.
+2026-08-11 20:58:27,847 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:58:42,632 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 20:58:42,634 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 20:58:42,634 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 20:58:42,634 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 20:58:42,635 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 20:58:42,635 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 20:58:42,635 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 20:58:42,635 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:05:06,691 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:05:06,692 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:05:06,692 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:05:06,692 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:05:06,693 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:05:06,693 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:05:06,693 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:05:06,693 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:05:36,708 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:05:36,709 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:05:36,710 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:05:36,710 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:05:36,710 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:05:36,710 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:05:36,710 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:05:36,711 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:07:15,724 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:07:15,726 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:07:15,726 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:07:15,726 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:07:15,726 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:07:15,726 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:07:15,726 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:07:15,727 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:07:44,779 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:07:44,780 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:07:44,780 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:07:44,781 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:07:44,781 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:07:44,781 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:07:44,781 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:07:44,782 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:08:15,771 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:08:15,772 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:08:15,772 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:08:15,773 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:08:15,773 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:08:15,773 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:08:15,773 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:08:15,773 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:08:54,221 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:08:54,223 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:08:54,223 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:08:54,223 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:08:54,223 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:08:54,223 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:08:54,224 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:08:54,224 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:10:05,489 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:10:05,491 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:10:05,491 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:10:05,492 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:10:05,492 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:10:05,492 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:10:05,492 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:10:05,493 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:10:45,202 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:10:45,204 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:10:45,204 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:10:45,205 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:10:45,205 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:10:45,205 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:10:45,205 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:10:45,205 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:11:32,385 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:11:32,387 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:11:32,387 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:11:32,387 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:11:32,387 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:11:32,387 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:11:32,387 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:11:32,388 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:12:48,311 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:12:48,313 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:12:48,313 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:12:48,314 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:12:48,314 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:12:48,314 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:12:48,314 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:12:48,315 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:13:02,622 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:13:02,625 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:13:02,625 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:13:02,625 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:13:02,625 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:13:02,625 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:13:02,625 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:13:02,626 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:13:29,798 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:13:29,800 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:13:29,801 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:13:29,801 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:13:29,801 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:13:29,801 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:13:29,801 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:13:29,802 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:13:44,677 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:13:44,680 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:13:44,680 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:13:44,680 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:13:44,680 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:13:44,680 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:13:44,681 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:13:44,681 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:14:18,405 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:14:18,407 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:14:18,407 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:14:18,408 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:14:18,408 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:14:18,408 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:14:18,408 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:14:18,409 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:20:39,444 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:20:39,446 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:20:39,446 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:20:39,446 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:20:39,446 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:20:39,447 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:20:39,447 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:20:39,447 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:22:58,986 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:22:58,988 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:22:58,989 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:22:58,989 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:22:58,989 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:22:58,989 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:22:58,989 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:22:58,990 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:23:06,174 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:23:06,177 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:23:06,177 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:23:06,177 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:23:06,178 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:23:06,178 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:23:06,178 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:23:06,178 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:24:09,446 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:24:09,449 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:24:09,449 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:24:09,449 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:24:09,449 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:24:09,449 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:24:09,450 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:24:09,450 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:53:40,457 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:53:40,461 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:53:40,461 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:53:40,462 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:53:40,462 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:53:40,462 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:53:40,462 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:53:40,463 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:54:58,168 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:54:58,171 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:54:58,171 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:54:58,171 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:54:58,171 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:54:58,172 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:54:58,172 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:54:58,172 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:54:58,554 - __main__ - INFO - Client: [36m('127.0.0.1', 61627)[0m is now connected to server.
+2026-08-11 21:55:19,926 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:55:19,929 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:55:19,929 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:55:19,930 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:55:19,930 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:55:19,930 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:55:19,930 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:55:19,931 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 21:55:22,790 - __main__ - INFO - Client: [36m('127.0.0.1', 61628)[0m is now connected to server.
+2026-08-11 21:55:24,897 - __main__ - ERROR - [31m[WinError 10054] An existing connection was forcibly closed by the remote host[0m
+2026-08-11 21:55:33,428 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 21:55:33,431 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 21:55:33,431 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 21:55:33,432 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 21:55:33,432 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 21:55:33,432 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 21:55:33,432 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 21:55:33,432 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:01:17,309 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:01:17,312 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:01:17,312 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:01:17,313 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:01:17,313 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:01:17,313 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:01:17,313 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:01:17,315 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:06:46,146 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:06:46,151 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:06:46,151 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:06:46,152 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:06:46,152 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:06:46,155 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:06:46,155 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:06:46,157 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:26:38,107 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:26:38,109 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:26:38,109 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:26:38,110 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:26:38,110 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:26:38,110 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:26:38,110 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:26:38,111 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:27:36,005 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:27:36,007 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:27:36,007 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:27:36,008 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:27:36,008 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:27:36,009 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:27:36,009 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:27:36,011 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:27:57,306 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:27:57,307 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:27:57,307 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-11 22:27:57,308 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:27:57,308 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:27:57,308 - __main__ - INFO - [94mActing as Server![0m
+2026-08-11 22:27:57,308 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:27:57,309 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:27:57,309 - __main__ - INFO - [36m Waiting for UDP [0m
+2026-08-11 22:28:09,783 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:28:09,785 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:28:09,785 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:28:09,787 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:28:09,788 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:28:09,789 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:28:09,789 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:28:09,791 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:28:09,792 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-11 22:30:39,057 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:30:39,061 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:30:39,061 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:30:39,063 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:30:39,064 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:30:39,064 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:30:39,065 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:30:39,068 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:33:07,109 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:33:07,114 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:33:07,115 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:33:07,116 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:33:07,117 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:33:07,117 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:33:07,118 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:33:07,118 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:35:29,717 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:35:29,722 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:35:29,722 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:35:29,723 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:35:29,724 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:35:29,743 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:35:29,746 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:35:29,750 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:35:29,757 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-11 22:36:01,348 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-11 22:37:43,651 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:37:43,653 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:37:43,653 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:37:43,654 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:37:43,654 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:37:43,655 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:37:43,655 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:37:43,656 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:37:43,657 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-11 22:38:17,083 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-11 22:41:45,244 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 22:41:45,252 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 22:41:45,252 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 22:41:45,253 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 22:41:45,253 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 22:41:45,254 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 22:41:45,254 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 22:41:45,255 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 22:41:45,255 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-11 22:42:16,943 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-11 23:14:24,312 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-11 23:14:24,314 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-11 23:14:24,314 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-11 23:14:24,315 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-11 23:14:24,315 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-11 23:14:24,317 - pyserver - INFO - [94mActing as Server![0m
+2026-08-11 23:14:24,317 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-11 23:14:24,319 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-11 23:14:24,319 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-11 23:15:02,446 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-11 23:16:08,819 - pyserver - INFO - Client: [36m('127.0.0.1', 63283)[0m is now connected to server.
+2026-08-12 00:30:26,618 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 00:30:26,620 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 00:30:26,620 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 00:30:26,622 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 00:30:26,622 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 00:30:26,622 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 00:30:26,623 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 00:30:26,624 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 00:30:26,625 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 00:31:09,300 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-12 00:52:19,722 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 00:52:19,724 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 00:52:19,724 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 00:52:19,724 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 00:52:19,725 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 00:52:19,725 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 00:52:19,725 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 00:52:19,726 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 00:52:19,727 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:03:54,613 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 01:03:54,615 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 01:03:54,616 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 01:03:54,616 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 01:03:54,617 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 01:03:54,617 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 01:03:54,617 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 01:03:54,618 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 01:03:54,618 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:16:02,222 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 01:16:02,229 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 01:16:02,229 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 01:16:02,230 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 01:16:02,230 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 01:16:02,231 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 01:16:02,231 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 01:16:02,232 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 01:16:02,233 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:18:11,659 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 01:18:11,662 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 01:18:11,662 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 01:18:11,662 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 01:18:11,663 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 01:18:11,663 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 01:18:11,663 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 01:18:11,664 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 01:18:11,664 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:19:39,096 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 01:19:39,105 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 01:19:39,105 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 01:19:39,106 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 01:19:39,108 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 01:19:39,109 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 01:19:39,109 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 01:19:39,111 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 01:19:39,112 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:20:20,367 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-12 01:21:04,063 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 01:21:04,065 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 01:21:04,065 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 01:21:04,066 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 01:21:04,066 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 01:21:04,067 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 01:21:04,067 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 01:21:04,068 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 01:21:04,069 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 01:21:53,713 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-12 13:41:18,661 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 13:41:18,663 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 13:41:18,663 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 13:41:18,663 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 13:41:18,664 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 13:41:18,664 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 13:41:18,664 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 13:41:18,664 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 13:41:18,665 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 13:42:49,138 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-12 13:43:49,403 - pyserver - INFO - Client: [36m('127.0.0.1', 64494)[0m is now connected to server.
+2026-08-12 13:44:17,979 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 13:44:17,981 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 13:44:17,981 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-12 13:44:17,981 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 13:44:17,981 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 13:44:17,981 - __main__ - INFO - [94mActing as Server![0m
+2026-08-12 13:44:17,981 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 13:44:17,982 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 13:44:17,982 - __main__ - INFO - [36m Waiting for UDP [0m
+2026-08-12 13:44:21,821 - __main__ - INFO - Client: [36m('127.0.0.1', 64495)[0m is now connected to server.
+2026-08-12 13:44:24,299 - __main__ - INFO - [36m UDP is ready, signaling session type (server)[0m
+2026-08-12 13:50:11,458 - __main__ - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 13:50:11,460 - __main__ - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 13:50:11,460 - __main__ - INFO - Server port: [36m9000[0m
+2026-08-12 13:50:11,460 - __main__ - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 13:50:11,460 - __main__ - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 13:50:11,460 - __main__ - INFO - [94mActing as Server![0m
+2026-08-12 13:50:11,461 - __main__ - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 13:50:11,461 - __main__ - INFO - [36m Waiting for UDP [0m
+2026-08-12 13:50:11,461 - __main__ - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 13:52:22,521 - pyserver - DEBUG - [36mVerbose [DEBUG] logging enabled. Detailed messages will now be shown.[0m
+2026-08-12 13:52:22,522 - pyserver - INFO - Server address: [36m0.0.0.0[0m
+2026-08-12 13:52:22,523 - pyserver - INFO - Server port: [36m9000[0m
+2026-08-12 13:52:22,523 - pyserver - INFO - Whitelist is [91mdisabled![0m
+2026-08-12 13:52:22,524 - pyserver - WARNING - [33mYou are not using a whitelist.[0m
+2026-08-12 13:52:22,525 - pyserver - INFO - [94mActing as Server![0m
+2026-08-12 13:52:22,525 - pyserver - DEBUG - pyserver.py is initialized from this point.
+2026-08-12 13:52:22,526 - pyserver - INFO - Server listening on [36m0.0.0.0:9000[0m
+2026-08-12 13:52:22,526 - pyserver - INFO - [36m Waiting for UDP [0m
+2026-08-12 13:53:01,459 - pyserver - INFO - [36m UDP is ready, signaling session type (server)[0m
